@@ -1,0 +1,6 @@
+@ODataBookStore_HostAddress = http://localhost:5013
+
+GET {{ODataBookStore_HostAddress}}/
+Accept: application/json
+
+###
